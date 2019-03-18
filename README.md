@@ -1,1 +1,4 @@
-# lab-3-sachin1921
+﻿# Team members
+## Sachin Teckchandani
+## Omair Farooqui
+## Zeerak Siddiqui
